@@ -30,7 +30,7 @@
     "hexo-wordcount": "^6.0.1",
     "is-number-like": "^1.0.8",
     "is-regex": "^1.0.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "lodash.isfinite": "^3.3.2",
     "ms": "^2.1.1",
     "pug": "^2.0.3",
